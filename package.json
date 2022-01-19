@@ -1,0 +1,17 @@
+{
+	"name": "dep",
+	"version": "1.0.0",
+	"description": "dep test file",
+	"scripts": {
+		"start": "node app.js",
+		"test": "jest"
+	},
+	"author": "",
+	"license": "ISC",
+	"dependencies": {
+		"express": "^4.17.2",
+		"jest": "^27.4.7",
+		"pm2": "^5.1.2",
+		"serve": "^13.0.2"
+	}
+}
